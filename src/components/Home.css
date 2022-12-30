@@ -27,14 +27,15 @@ button{
     font-size: 16px;
     cursor: pointer;
 }
-input{
-    font-size: medium;
-    padding: .2rem;
-    margin: .5rem;
-    width: 500px;
-    height: 24px;
-    outline: none;
-    border: .5px solid black;
+
+input {
+  font-size: 20px;
+  text-align: center;
+  width: 150%;
+  margin-bottom: 15px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
 }
 a{
     font-size: 24px;
@@ -55,7 +56,7 @@ a{
   color: #fff;
   cursor: pointer;
   font-family: -apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Ubuntu,sans-serif;
-  font-size: 100%;
+  font-size: 150%;
   height: 44px;
   line-height: 1.15;
   margin: 12px 0 0;

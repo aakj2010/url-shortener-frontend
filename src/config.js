@@ -1,4 +1,4 @@
 export const env ={
-    api: "http://localhost:8000"
-    // api : "https://akj-url-shortener-bd.vercel.app/"
+    // api: "http://localhost:8000"
+    api : "https://url-shortener-backend-mu.vercel.app"
 }
